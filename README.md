@@ -1,3 +1,9 @@
+![image](https://github.com/joaodarkofc/wordlistdark/assets/166753179/a910f6d8-f94d-457a-bd83-19cb823d2e01)
+
+
+
+
+
 Gerador de Wordlist e Senhas com Banners Animados
 
 Este projeto é um gerador de wordlists e senhas com uma interface de menu simples e banners animados para uma experiência visual divertida. É uma ferramenta útil para criar listas de palavras personalizadas para vários propósitos, como teste de segurança, pesquisa ou geração de senhas.
